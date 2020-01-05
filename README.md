@@ -10,6 +10,8 @@ I have also provided a video showing the current solution minus the data from th
 
 - The reason for the unfinished site is that the API was restricted.
 
+This was a fun test since I have never before used either Vue and Webstorm nor Firebase. Therefore I was introduced to new technologies.
+
 
 # footbal_api
 
