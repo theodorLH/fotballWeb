@@ -7,6 +7,7 @@ For question 1 I choose to complete the task in python.
 For question 2b I set up a Vue project in WebStorm along with Firestorm. The chosen API was: https://www.football-data.org/documentation/quickstart
 
 I have also provided a video showing the current solution minus the data from the API. When entered, the first page should show team and player information. The second page should show match fixtures for the given team.
+
 - The reason for the unfinished site is that the API was restricted.
 
 
