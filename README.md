@@ -4,14 +4,13 @@ The code for the two different questions for the coding test is given here. The 
 
 For question 1 I choose to complete the task in python.
 
-For question 2b I set up a Vue project in WebStorm along with Firestorm. The chosen API was: https://www.football-data.org/documentation/quickstart
-
-I have also provided a video showing the current solution minus the data from the API. When entered, the first page should show team and player information. The second page should show match fixtures for the given team.
+For question 2b I set up a Vue project in WebStorm along with Firestorm. The chosen API was: https://www.football-data.org/documentation/quickstart. 
 
 - The reason for the unfinished site is that the API was restricted.
 
 This was a fun test since I have never before used either Vue and Webstorm nor Firebase. Therefore I was introduced to new technologies.
 
+(I have left outsome of the different node_modules from the repository because of the substantial amount of them)
 
 # footbal_api
 
