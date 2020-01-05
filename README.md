@@ -6,7 +6,7 @@ For question 1 I choose to complete the task in python.
 
 For question 2b I set up a Vue project in WebStorm along with Firestorm. The chosen API was: https://www.football-data.org/documentation/quickstart. 
 
-- The reason for the unfinished site is that the API was restricted.
+- The reason for the unfinished site is that the API was restricted. Specifically, the desired API actions for the remaining pages: team info, and all available matches, were restricted.
 
 This was a fun test since I have never before used either Vue and Webstorm nor Firebase. Therefore I was introduced to new technologies.
 
