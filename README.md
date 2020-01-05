@@ -1,9 +1,22 @@
-# ardoqtest
+# footbal_api
 
-Here are the finished part 1 and the following code for the second part of the code test. 
+> Website to see fotball stats
 
-Question 1 was completed in python.
+## Build Setup
 
-Question 2 was almost completed as a Vue project in WebAtorm along with Firebase. 
+``` bash
+# install dependencies
+$ npm run install
 
-Here are the chosen public API: https://www.football-data.org/documentation/quickstart
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
