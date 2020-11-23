@@ -1,10 +1,6 @@
 # Ardoq test
 
-The code for the two different questions for the coding test is given here. The highestProduct.py shows the final solution to question 1, and the rest of the documentation is for question 2b.
-
-For question 1 I choose to complete the task in python.
-
-For question 2b I set up a Vue project in WebStorm along with Firestorm. The chosen API was: https://www.football-data.org/documentation/quickstart. 
+A Vue project in WebStorm along with Firestorm. The chosen API was: https://www.football-data.org/documentation/quickstart. 
 
 - The reason for the unfinished site is that the API was restricted. Specifically, the desired API actions for the remaining pages: team info, and all available matches, were restricted.
 
