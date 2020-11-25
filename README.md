@@ -1,4 +1,4 @@
-# Ardoq test
+# Fotball API
 
 A Vue project in WebStorm along with Firestorm. The chosen API was: https://www.football-data.org/documentation/quickstart. 
 
